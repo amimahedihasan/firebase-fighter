@@ -10,6 +10,7 @@
 ## All Plants
 
 ## Single Plant page (Private Route)
+## Single Plant page (Private Route)
 
 ## Profile Page (Private)
 # firebase_fighter
